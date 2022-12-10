@@ -23,3 +23,11 @@ My first repository
 | ----------- | ----------- |
 | #H1 | GROUP 4 |
 | WE LOVE STI MUWAH MUWAH | DE TORRES, CARADA, CORNEJO |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
