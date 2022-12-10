@@ -9,3 +9,6 @@ My first repository
 1. 10 pesos mani
 2. 5 pesos brownies
 3. 2 pesos takuyaki
+- 10 pesos mani
+- 5 pesos brownies
+- 2 pesos takuyaki
