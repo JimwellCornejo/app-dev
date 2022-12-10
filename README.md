@@ -26,8 +26,8 @@ My first repository
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "JIMWELL, JOHN ELTON, JOHN PAOLO",
+  "lastName": "CORNEJO, CARADA, DE TORRES",
+  "age": 21,22,19
 }
 ```
