@@ -4,4 +4,5 @@ My first repository
 ## JOHN ELTON
 ### JOHN PAOLO
 **GROUP 4**
-*TEAM POGI*
+*TEAM POGI's*
+>AIM HIGH STI
