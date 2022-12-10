@@ -17,3 +17,4 @@ My first repository
 `XXXO91`
 ---
 [GROUP 4](https://www.example.com)
+![alt text](image.jpg)
