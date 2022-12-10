@@ -21,5 +21,5 @@ My first repository
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| #H1 | GROUP 4 |
+| WE LOVE STI MUWAH MUWAH | DE TORRES, CARADA, CORNEJO |
